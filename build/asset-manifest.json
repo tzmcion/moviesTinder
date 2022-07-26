@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c6a25b2.css",
+    "main.js": "/static/js/main.0361b334.js",
+    "static/js/787.325e7567.chunk.js": "/static/js/787.325e7567.chunk.js",
+    "static/media/tinder_logo.png": "/static/media/tinder_logo.ca1c7e14fffe4129e1de.png",
+    "static/media/green_heart.png": "/static/media/green_heart.f56730c8196a9e7a8c3b.png",
+    "static/media/fire.png": "/static/media/fire.c141b2917b488932bfa0.png",
+    "static/media/Loading_icon.gif": "/static/media/Loading_icon.1a32f552ee5280e2aef9.gif",
+    "static/media/half_star.png": "/static/media/half_star.7354d2096ee0f4098986.png",
+    "static/media/star.png": "/static/media/star.d0cbd94e0a4a62fc2bf4.png",
+    "index.html": "/index.html",
+    "main.9c6a25b2.css.map": "/static/css/main.9c6a25b2.css.map",
+    "main.0361b334.js.map": "/static/js/main.0361b334.js.map",
+    "787.325e7567.chunk.js.map": "/static/js/787.325e7567.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c6a25b2.css",
+    "static/js/main.0361b334.js"
+  ]
+}
