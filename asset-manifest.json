@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/moviesTinder/static/css/main.9c6a25b2.css",
-    "main.js": "/moviesTinder/static/js/main.89f0c491.js",
+    "main.js": "/moviesTinder/static/js/main.a01d9a0f.js",
     "static/js/787.325e7567.chunk.js": "/moviesTinder/static/js/787.325e7567.chunk.js",
     "static/media/tinder_logo.png": "/moviesTinder/static/media/tinder_logo.ca1c7e14fffe4129e1de.png",
     "static/media/green_heart.png": "/moviesTinder/static/media/green_heart.f56730c8196a9e7a8c3b.png",
@@ -11,11 +11,11 @@
     "static/media/star.png": "/moviesTinder/static/media/star.d0cbd94e0a4a62fc2bf4.png",
     "index.html": "/moviesTinder/index.html",
     "main.9c6a25b2.css.map": "/moviesTinder/static/css/main.9c6a25b2.css.map",
-    "main.89f0c491.js.map": "/moviesTinder/static/js/main.89f0c491.js.map",
+    "main.a01d9a0f.js.map": "/moviesTinder/static/js/main.a01d9a0f.js.map",
     "787.325e7567.chunk.js.map": "/moviesTinder/static/js/787.325e7567.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c6a25b2.css",
-    "static/js/main.89f0c491.js"
+    "static/js/main.a01d9a0f.js"
   ]
 }
