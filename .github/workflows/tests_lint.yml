@@ -12,7 +12,6 @@ jobs:
       - uses: actions/checkout@v2
       - run:
           npm i
-          npm i eslint
           npm run build
   test:
     name: "test"
@@ -21,6 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run:
+          npm i
           npm run test
   lint:
     name: "lint"
@@ -29,5 +29,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run:
+          npm i
           npm run lint
       
